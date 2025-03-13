@@ -13,6 +13,5 @@ public class conteoDigito {
             cont++;
         }
         System.out.println(cont);
-
     }
 }
